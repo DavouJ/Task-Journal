@@ -1,5 +1,5 @@
 # Task-Journal
-##Day scheduler using JQuery
+## Day scheduler using JQuery
 
 ## Table of Contents 
 
@@ -68,9 +68,9 @@ SOFTWARE.
 
 ## Badges CHANGE
 
-![badmath](https://img.shields.io/badge/HTML-84.6-blue)
-![badmath](https://img.shields.io/badge/CSS-15.4-orange)
-![badmath](https://img.shields.io/badge/js-15.4-purple)
+![badmath](https://img.shields.io/badge/HTML-74.3-blue)
+![badmath](https://img.shields.io/badge/CSS-11.5-orange)
+![badmath](https://img.shields.io/badge/js-14.2-purple)
 
 ## How to Contribute
 
